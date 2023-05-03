@@ -30,8 +30,6 @@ app.use(express.json());
 app.use(cors(corsOptions));
 //54 files
 // const importingData = async () => {
-//   await insertDataBucketHat();
-//   await insertDataKnittedHat();
 //   await insertDataEmbroideryHat();
 //   await insertDataPatchesHat();
 //   await insertDataOtherHat();
@@ -41,6 +39,8 @@ app.use(cors(corsOptions));
 //   await insertDataVisorsHat();
 //   await insertDataWashingHat();
 //   await insertDataWovenLabel();
+//   await insertDataBucketHat();
+//   await insertDataKnittedHat();
 // };
 
 // importingData();
