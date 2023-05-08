@@ -43,7 +43,7 @@ const importingData = async () => {
   await insertDataKnittedHat();
 };
 
-importingData();
+// importingData();
 
 app.get("/", (req, res) => {
   const newCM = new ClientModel({
