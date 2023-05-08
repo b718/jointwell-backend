@@ -62,7 +62,7 @@ const OC006 = new UpdatedCapModel({
   id: "OC006",
   name: "Other Hat 6",
   style: ["other"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const insertDataOtherHat = async () => {
