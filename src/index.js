@@ -29,21 +29,21 @@ app.use(express.json());
 
 app.use(cors(corsOptions));
 //54 files
-// const importingData = async () => {
-//   await insertDataEmbroideryHat();
-//   await insertDataPatchesHat();
-//   await insertDataOtherHat();
-//   await insertDataCaps();
-//   await insertDataPrintingHat();
-//   await insertDataSportsHat();
-//   await insertDataVisorsHat();
-//   await insertDataWashingHat();
-//   await insertDataWovenLabel();
-//   await insertDataBucketHat();
-//   await insertDataKnittedHat();
-// };
+const importingData = async () => {
+  await insertDataEmbroideryHat();
+  await insertDataPatchesHat();
+  await insertDataOtherHat();
+  await insertDataCaps();
+  await insertDataPrintingHat();
+  await insertDataSportsHat();
+  await insertDataVisorsHat();
+  await insertDataWashingHat();
+  await insertDataWovenLabel();
+  await insertDataBucketHat();
+  await insertDataKnittedHat();
+};
 
-// importingData();
+importingData();
 
 app.get("/", (req, res) => {
   const newCM = new ClientModel({
