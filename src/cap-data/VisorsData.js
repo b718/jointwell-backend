@@ -22,7 +22,7 @@ const VC001 = new UpdatedCapModel({
   id: "VC001",
   name: "Visor 1",
   style: ["visors"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const VC002 = new UpdatedCapModel({
@@ -30,7 +30,7 @@ const VC002 = new UpdatedCapModel({
   id: "VC002",
   name: "Visor 2",
   style: ["visors"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const VC003 = new UpdatedCapModel({
@@ -62,7 +62,7 @@ const VC006 = new UpdatedCapModel({
   id: "VC006",
   name: "Visor 6",
   style: ["visors"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const insertDataVisorsHat = async () => {

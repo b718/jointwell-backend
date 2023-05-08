@@ -22,7 +22,7 @@ const PA001 = new UpdatedCapModel({
   id: "PA001",
   name: "Patches Hat 1",
   style: ["caps"],
-  decoration: ["patches"],
+  decoration: ["patches", "embroidery"],
 });
 
 const PA002 = new UpdatedCapModel({
@@ -46,7 +46,7 @@ const PA004 = new UpdatedCapModel({
   id: "PA004",
   name: "Patches Hat 4",
   style: ["caps"],
-  decoration: ["patches"],
+  decoration: ["patches", "embroidery"],
 });
 
 const insertDataPatchesHat = async () => {

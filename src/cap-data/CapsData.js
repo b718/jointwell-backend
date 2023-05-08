@@ -24,7 +24,7 @@ const BC001 = new UpdatedCapModel({
   id: "BC001",
   name: "Baseball Cap 1",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 // const BC01 = new UpdatedCapModel({
@@ -40,7 +40,7 @@ const BC002 = new UpdatedCapModel({
   id: "BC002",
   name: "Baseball Cap 2",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const BC003 = new UpdatedCapModel({
@@ -48,7 +48,7 @@ const BC003 = new UpdatedCapModel({
   id: "BC003",
   name: "Baseball Cap 3",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const BC004 = new UpdatedCapModel({
@@ -64,7 +64,7 @@ const BC005 = new UpdatedCapModel({
   id: "BC005",
   name: "Baseball Cap 5",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const BC006 = new UpdatedCapModel({
@@ -72,7 +72,7 @@ const BC006 = new UpdatedCapModel({
   id: "BC006",
   name: "Baseball Cap 6",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const BC007 = new UpdatedCapModel({
@@ -80,7 +80,7 @@ const BC007 = new UpdatedCapModel({
   id: "BC007",
   name: "Baseball Cap 7",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 // const BC008 = new UpdatedCapModel({
@@ -104,7 +104,7 @@ const BC010 = new UpdatedCapModel({
   id: "BC010",
   name: "Baseball Cap 10",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 // const BC011 = new UpdatedCapModel({
@@ -128,7 +128,7 @@ const BC013 = new UpdatedCapModel({
   id: "BC013",
   name: "Baseball Cap 13",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const BC014 = new UpdatedCapModel({
@@ -144,7 +144,7 @@ const BC015 = new UpdatedCapModel({
   id: "BC015",
   name: "Baseball Cap 15",
   style: ["caps"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 //EB Section

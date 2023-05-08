@@ -30,7 +30,7 @@ const OC002 = new UpdatedCapModel({
   id: "OC002",
   name: "Other Hat 2",
   style: ["other"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const OC003 = new UpdatedCapModel({
@@ -38,7 +38,7 @@ const OC003 = new UpdatedCapModel({
   id: "OC003",
   name: "Other Hat 3",
   style: ["other"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 // const OC004 = new UpdatedCapModel({
