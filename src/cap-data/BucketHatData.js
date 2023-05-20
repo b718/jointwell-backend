@@ -38,7 +38,7 @@ const BH003 = new UpdatedCapModel({
   id: "BH003",
   name: "Bucket Hat 3",
   style: ["bucket"],
-  decoration: [""],
+  decoration: ["embroidery"],
 });
 
 const BH004 = new UpdatedCapModel({

@@ -22,7 +22,7 @@ const BC008 = new UpdatedCapModel({
   id: "BC008",
   name: "Washing Head 8",
   style: ["caps"],
-  decoration: ["washing"],
+  decoration: ["washing", "embroidery"],
 });
 
 const BC011 = new UpdatedCapModel({
@@ -30,7 +30,7 @@ const BC011 = new UpdatedCapModel({
   id: "BC011",
   name: "Washing Head 11",
   style: ["caps"],
-  decoration: ["washing"],
+  decoration: ["washing", "embroidery"],
 });
 
 const BC012 = new UpdatedCapModel({
@@ -38,7 +38,7 @@ const BC012 = new UpdatedCapModel({
   id: "BC012",
   name: "Washing Head 12",
   style: ["caps"],
-  decoration: ["washing"],
+  decoration: ["washing", "embroidery"],
 });
 
 const insertDataWashingHat = async () => {

@@ -46,7 +46,7 @@ const PC004 = new UpdatedCapModel({
   id: "PC004",
   name: "Printing Hat 4",
   style: ["caps"],
-  decoration: ["printing"],
+  decoration: ["printing", "embroidery"],
 });
 
 const VC005 = new UpdatedCapModel({
@@ -54,7 +54,7 @@ const VC005 = new UpdatedCapModel({
   id: "VC005",
   name: "Printing Hat 4",
   style: ["visors"],
-  decoration: ["printing"],
+  decoration: ["printing", "embroidery"],
 });
 
 const insertDataPrintingHat = async () => {

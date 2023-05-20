@@ -28,7 +28,7 @@ console.log("Connected to MongoDB!");
 app.use(express.json());
 
 app.use(cors(corsOptions));
-//54 files
+//53 files
 // const importingData = async () => {
 //   await insertDataEmbroideryHat();
 //   await insertDataPatchesHat();
@@ -56,7 +56,6 @@ app.get("/", (req, res) => {
 });
 
 //fetch is get, put is post
-
 //this is to put data into our database
 app.post("/client", async (req, res) => {
   console.log(req.body);
